@@ -1,5 +1,5 @@
 # autonomous-mapping-vehicle
-Final Year Project of BEng Electrical and Electronic Engineering
+Final Year Project for BEng Electrical and Electronic Engineering
 
 
 
