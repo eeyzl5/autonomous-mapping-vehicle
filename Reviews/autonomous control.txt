@@ -1,0 +1,18 @@
+Unmanned Systems Technology XX [DS117]
+Autonomous Systems: Sensors, Vehicles, Security and the Internet of Everything (Dudzik, Ricklin) [DS121]
+Infrared Imaging Systems: Design, Analysis, Modeling, and Testing XXIX (Holst, Krapels) [DS101]
+Laser Radar Technology and Applications XXIII (Turner, Kamerman) [DS113]
+Situation Awareness in Degraded Environments 2018 (Sanders-Reed, Arthur) [DS119]
+Algorithms and Technologies for Multispectral, Hyperspectral, and Ultraspectral Imagery XXIV (Velez-Reyes, Messinger) [DS122]
+Geospatial Informatics Motion Imagery Analytics VIII (Palaniappan, Doucette, Seetharaman) [DS123]
+Long-Range Imaging III (Kelmelis) [DS132]
+Hyperspectral Imaging Sensors: Innovative Applications and Sensor Standards 2018 (Bannon, Allen) [SI108]
+Watson D P, Scheidt D H. Autonomous systems[J]. Johns Hopkins APL technical digest, 2005, 26(4): 368-376.
+https://www.robots.com/articles/viewing/what-are-autonomous-robots
+https://www.elprocus.com/different-types-of-autonomous-robots-and-real-time-applications/
+https://www.hackster.io/paramaggarwal/mapping-a-room-with-ultrasonic-distance-sensors-9725b7
+https://www.hackster.io/graham_chow/spread-spectrum-phased-array-sonar-018e22
+https://learn.sparkfun.com/tutorials/what-is-an-arduino
+
+
+ultrasonic reflection:  http://www.sciencedirect.com/science/article/pii/S0041624X12002119
